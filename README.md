@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+This is how it will look after deployment
+![alt text](https://github.com/WARDHAN10/dashboard/blob/main/dashboard.png)
 ### `npm start`
 
 Runs the app in the development mode.\
